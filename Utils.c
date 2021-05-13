@@ -1,4 +1,4 @@
-#include "../inc/Utils.h"
+#include "Utils.h"
 
 EFI_HANDLE gImageHandle = NULL;
 EFI_SYSTEM_TABLE* gST = NULL;

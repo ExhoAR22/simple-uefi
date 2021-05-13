@@ -1,7 +1,7 @@
-#include "../inc/Esp.h"
-#include "../inc/Utils.h"
+#include "Esp.h"
+#include "Utils.h"
 
-#include "../inc/protocols/SimpleFilesystemProtocol.h"
+#include "protocols/SimpleFilesystemProtocol.h"
 
 extern EFI_BOOT_SERVICES* gBS;
 

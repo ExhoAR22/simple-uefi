@@ -1,4 +1,4 @@
-#include "../inc/Graphics.h"
+#include "Graphics.h"
 
 extern EFI_BOOT_SERVICES* gBS;
 

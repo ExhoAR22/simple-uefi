@@ -1,4 +1,4 @@
-#include "../inc/Console.h"
+#include "Console.h"
 
 extern EFI_SYSTEM_TABLE* gST;
 
